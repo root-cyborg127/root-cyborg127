@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://fb.com/milliesgreatfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishwajithshaijukumar@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/vishwajithshaijukumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishwajithshaijukumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vishwatech india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishwatech india" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCGruYFu0xzUYmfvy4ydjGHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishwatech india" height="30" width="40" /></a>
 <a href="https://discord.gg/8TjSRaxB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8TjSRaxB" height="30" width="40" /></a>
 </p>
 
