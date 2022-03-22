@@ -28,7 +28,12 @@
 
 <a href="https://www.youtube.com/channel/UCGruYFu0xzUYmfvy4ydjGHQ">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCGruYFu0xzUYmfvy4ydjGHQ&key=AIzaSyANbmZXQbNYHdth1ZyobBK091q8tOw9Av4"/>
+</a> <a href="https://www.youtube.com/channel/UCGruYFu0xzUYmfvy4ydjGHQ">
+   <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCGruYFu0xzUYmfvy4ydjGHQ&key=AIzaSyANbmZXQbNYHdth1ZyobBK091q8tOw9Av4"/>
 </a>
+
+
+
 
 
 
