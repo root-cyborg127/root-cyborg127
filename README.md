@@ -3,14 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root-cyborg127&label=Profile%20views&color=0e75b6&style=flat" alt="root-cyborg127" /> </p>
 
-- 🔭 I’m currently working on **THM**
+- 🔭 I’m currently working on <a href="https://tryhackme.com/p/rootATTICUS" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"  height="70" width="70" />               **THM**</a>
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning <a href="https://www.python.org/" target="blank"><img align="center" src="https://assets.tryhackme.com/img/modules/scripting-for-pentesters.png"  height="60" width="60" />              **PYTHON**</a>   
 
 - 👯 I’m looking to collaborate on **python tools**
 
 - ⚡ Fun fact **If I could have any superpower, it would be my PC and internet**
 
+- 👾 Favourite Tool  <a href="https://www.metasploit.com/" target="blank"><img align="center" src="https://tryhackme.com/img/badges/metasploit.svg"  height="60" width="70" />               **𝙈𝙀𝙏𝘼𝙎𝙋𝙇𝙊𝙄𝙏**</a>
 
 
 
