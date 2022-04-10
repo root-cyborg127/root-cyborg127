@@ -14,7 +14,13 @@
 - 👾 Favourite Tool  <a href="https://www.metasploit.com/" target="blank"><img align="center" src="https://tryhackme.com/img/badges/metasploit.svg"  height="60" width="70" />               **𝙈𝙀𝙏𝘼𝙎𝙋𝙇𝙊𝙄𝙏**</a>
 
 
+---
 
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/milliesgreatfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishwajithshaijukumar@gmail.com" height="30" width="40" /></a>
