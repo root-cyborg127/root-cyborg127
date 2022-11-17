@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vishwajith</h1>
-<h3 align="center">A passionate CYBER-SEC student from India</h3>
+<h3 align="center">A passionate CYBER-SEC student from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root-cyborg127&label=Profile%20views&color=0e75b6&style=flat" alt="root-cyborg127" /> </p>
 
 - 🔭 I’m currently working on <a href="https://tryhackme.com/p/rootATTICUS" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"  height="70" width="70" />               **THM**</a>
 
-- 🌱 I’m currently learning <a href="https://www.python.org/" target="blank"><img align="center" src="https://assets.tryhackme.com/img/modules/scripting-for-pentesters.png"  height="60" width="60" />              **PYTHON**</a>   
+- 🌱 I’m currently learning <a href="https://www.python.org/" target="blank"><img align="center" src="https://assets.tryhackme.com/img/modules/scripting-for-pentesters.png"  height="60" width="60" />              **PYTHON**,**C**,**C++**</a>   
 
-- 👯 I’m looking to collaborate on **python tools**
+- 👯 I’m looking to collaborate on **Python Tools**
 
 - ⚡ Fun fact **If I could have any superpower, it would be my PC and internet**
 
