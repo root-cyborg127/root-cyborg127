@@ -33,8 +33,8 @@
 
 ### - I'm 18 years old Cyber-Security Enthusiast from India.
 
-<!-- <img hight="400" width="500" alt="GIF" align="right" src="http://imgur.com/gallery/hDOfuOx"> -->
-<iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
+ <img hight="400" width="500" alt="GIF" align="right" src="ezgif-1-fab02f7ff2.gif"> 
+
 
 ### - Learning :
 - ✨ Basic pentesting
