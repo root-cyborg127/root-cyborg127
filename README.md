@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Python Tools**
 
-- ⚡ Fun fact **If I could have any superpower, it would be my PC and internet**
 
 - 👾 Favourite Tool  <a href="https://www.metasploit.com/" target="blank"><img align="center" src="https://tryhackme.com/img/badges/metasploit.svg"  height="60" width="70" />               **𝙈𝙀𝙏𝘼𝙎𝙋𝙇𝙊𝙄𝙏**</a>
 
